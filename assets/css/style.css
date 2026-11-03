@@ -1,0 +1,21 @@
+:root {
+  --white: #ffffff;
+  --lilac: #f4f1ff;
+  --sky: #dff6ff;
+  --pink: #ff58df;
+  --aqua: #48eaff;
+  --lime: #70ff00;
+  --navy: #1a1a2e;
+}
+
+body {
+  margin: 0;
+  background-color: var(--white);
+  color: var(--navy);
+  font-family: sans-serif;
+}
+
+header {
+  background-color: var(--sky);
+  padding: 24px;
+}
